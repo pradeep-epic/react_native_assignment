@@ -2,8 +2,11 @@
 
 ## Flight Search and results
 
-* Flight Search screen ![Flight Search](flight_search_home.png)
-* Flight Search results screen ![Flight Search Results](flight_search_results.png)
+* Flight Search screen 
+![Flight Search](flight_search_home.png)
+
+* Flight Search results screen 
+![Flight Search Results](flight_search_results.png)
 
 * Your goal is to build these two screens in react native.
 * To get the airport city and codes please use the following API
